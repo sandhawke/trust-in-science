@@ -1,4 +1,4 @@
-## 14 Signals of Trust in Science
+## Some Signals of Trust in Science
 
 1. Science is probably more trustworthy when it looks like the scientists could be making more money doing something else
 1. Science is probably more trustworthy when results have passed peer review, showing multiple experts in the field think it's done properly

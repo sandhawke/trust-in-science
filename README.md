@@ -1,6 +1,6 @@
 ## Some Signals of Trust in Science
 
-When should we trust science? Thread. Fave your favorites & add what's missing! #TrustScienceWhen #SignalsOfTrust  Big thanks to folks who elsewhere suggested items and inspired this, decloak if you like
+When should we trust science? Thread. Fave your favorites & add what's missing! #TrustScienceWhen #SignalsOfTrust  Big thanks to folks who anonymously suggested items and inspired this
 
 1. I have more trust in science when I see a robust debate eventually coming to agreement #TrustScienceWhen
 1. I have more trust in science when it links to the raw downloadable data #TrustScienceWhen
@@ -11,7 +11,6 @@ When should we trust science? Thread. Fave your favorites & add what's missing! 
 1. I have more trust in science when scientists show skepticism about their own ideas #TrustScienceWhen
 1. I have more trust in science when it's funded by folks without a stake in a particular outcome #TrustScienceWhen
 1. I have more trust in science when I get the impression the scientists are super smart and a bit weird #TrustScienceWhen
-1. I have more trust in science when it looks like the scientists could make more money doing something else #TrustScienceWhen
 1. I have more trust in science when the hypotheses and methods are declared in advance #TrustScienceWhen
 1. I have more trust in science when institutions rapidly investigate allegations of misconduct and share their results #TrustScienceWhen
 1. I have more trust in science when there is visible competition between teams #TrustScienceWhen

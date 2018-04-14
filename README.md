@@ -6,6 +6,7 @@ Original "tweet storm" drafting area below.
 Just some thoughts.  Comment via tweet, github issue, pull request, etc.
 
 My personal focus is in how to **automate** publishing, tracking, and reasoning about signals like these, not just in science.  Doing this in the [W3C Credible Web Group](https://www.w3.org/community/credibility/)
+
 Some examples of how this might be approached:
 
 * Machine readable signals of robust debate could come from marking up the structure of the debate, that certain posts rebut others, and evolving votes from participants in the debate.  Would be good to have strong identity and role data of participants.
@@ -39,4 +40,4 @@ When should we trust science? Thread based on amazing conversation with folks wh
 1. I have more trust in science when I see the scientists excited by their work #TrustScienceWhen
 1. I have more trust in science when everyone involved is forced to disclose their financial incentives #TrustScienceWhen
 1. I have more trust in science when the math (especially stats) has been checked by experts in the math, not just experts in the science #TrustScienceWhen
-1. What am I missing?
+1. What am I missing? What observable behaviors in science are the best indicators that it's trustworthy?

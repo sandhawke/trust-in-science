@@ -1,7 +1,7 @@
 
 ## Signals of Trust in Science
 
-Original "tweet storm" drafting area below.
+Original "tweet storm" drafting area below, ended up being posted at https://twitter.com/sandhawke/status/985170043569889281
 
 Just some thoughts.  Comment via tweet, github issue, pull request, etc.
 
@@ -40,4 +40,4 @@ When should we trust science? Thread based on amazing conversation with folks wh
 1. I have more trust in science when I see the scientists excited by their work #TrustScienceWhen
 1. I have more trust in science when everyone involved is forced to disclose their financial incentives #TrustScienceWhen
 1. I have more trust in science when the math (especially stats) has been checked by experts in the math, not just experts in the science #TrustScienceWhen
-1. What am I missing? What observable behaviors in science are the best indicators that it's trustworthy?
+1. That's what I've got so far! What am I missing? What observable behaviors in science are the best indicators that it's trustworthy? For extra credit: what would allow them to be reliably observed by machine?
